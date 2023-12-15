@@ -22,7 +22,7 @@ const Content = (props) => {
     </div>
   )
 }
-const Total = (props => {
+const Total = (props) => {
   console.log(props)
   return (
     <div>
