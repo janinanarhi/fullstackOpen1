@@ -31,7 +31,7 @@ const Total = (props) => {
       </p>
     </div>
   )
-})
+}
 const App = () => {
   const course = 'Half Stack application development'
   const part1 = 'Fundamentals of React'
